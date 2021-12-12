@@ -53,7 +53,7 @@
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="251" text="-" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bRZ-04-mii">
                                                 <rect key="frame" x="0.0" y="7.5" width="31.5" height="30"/>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
-                                                <color key="textColor" red="0.35759771725552036" green="0.63960850057302099" blue="0.83239602495947762" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="درجة الحرارة :" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="H34-0A-XA1">
@@ -82,7 +82,7 @@
                                                     <constraint firstAttribute="width" secondItem="A1K-ki-UT2" secondAttribute="height" multiplier="31:30" id="HKL-jX-AUL"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
-                                                <color key="textColor" red="0.3712539178" green="0.66403433310000004" blue="0.864184167" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="الضغط :" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yKz-kA-BbV">
@@ -111,7 +111,7 @@
                                                     <constraint firstAttribute="width" secondItem="G1G-EG-RsO" secondAttribute="height" multiplier="12:5" id="Jdd-AC-ajG"/>
                                                 </constraints>
                                                 <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
-                                                <color key="textColor" red="0.3712539178" green="0.66403433310000004" blue="0.864184167" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                                <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
                                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="الرطوبة :" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AjM-V6-YvB">

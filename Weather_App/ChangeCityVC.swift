@@ -15,10 +15,12 @@ class ChangeCityVC: UIViewController {
         City(name: "جدة", id: "105343"),
         City(name: "أبها", id: "110690")
     ]
+    
     var citiesId = [
     "108410",
     "110336"
     ]
+    
     var selectesCity: City?
     @IBOutlet weak var citiesPickerView: UIPickerView!
     override func viewDidLoad() {
